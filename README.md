@@ -1,2 +1,2 @@
-# presentations
-GitHub Reposotiry for all my presentations
+# SixTrackLib Presentations
+GitHub Reposotiry for all SixTrackLib-related presentations
