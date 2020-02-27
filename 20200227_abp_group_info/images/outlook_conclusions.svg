@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="554.66976"
+     inkscape:cx="283.14076"
      inkscape:cy="431.525"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3521"
+     inkscape:current-layer="g2649"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1920"
+     inkscape:window-height="1141"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -313,7 +313,7 @@
    style="fill:#003380;fill-opacity:1"
    id="tspan1915"> ‣</tspan> C++ Bindings are fully templated <tspan
    id="tspan2590"
-   style="fill:#800000">➡</tspan> MultiPrec, SIMD, evt. TPSA</tspan><tspan
+   style="fill:#800000">➡</tspan> MultiPrec, SIMD, eventually TPSA</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:Hack;-inkscape-font-specification:Hack;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
              y="284.022"
              x="8.8112078"

@@ -27,7 +27,7 @@
      inkscape:cx="498.30183"
      inkscape:cy="219.55949"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2111"
+     inkscape:current-layer="g2588"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1141"
@@ -134,152 +134,155 @@
         <g
            id="g2588">
           <g
-             transform="translate(-52.22064,124.06518)"
-             id="g161">
+             id="g2684">
+            <g
+               id="g161"
+               transform="translate(-52.22064,124.06518)">
+              <rect
+                 transform="matrix(1,0,0.93253677,-0.36107502,0,0)"
+                 y="-457.01312"
+                 x="481.90619"
+                 height="5.337039"
+                 width="286.61618"
+                 id="rect258-1"
+                 style="fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.29982483;stroke-opacity:1" />
+              <text
+                 id="text262-9"
+                 y="171.34727"
+                 x="68.161568"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Arial;-inkscape-font-specification:Arial;fill:#003380;fill-opacity:1;stroke-width:0.26458332"
+                   y="171.34727"
+                   x="68.161568"
+                   id="tspan260-4"
+                   sodipodi:role="line">ABP Group Information Meeting - February 2020 :: SixTrackLib :: Schwinzerl :: Slide 10</tspan></text>
+            </g>
             <rect
-               style="fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.29982483;stroke-opacity:1"
-               id="rect258-1"
-               width="286.61618"
-               height="5.337039"
-               x="481.90619"
-               y="-457.01312"
-               transform="matrix(1,0,0.93253677,-0.36107502,0,0)" />
+               style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.43429565;stroke-miterlimit:4;stroke-dasharray:0.43429563, 0.43429563;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect3054"
+               width="297.47101"
+               height="210.66183"
+               x="0"
+               y="87.08651" />
+            <g
+               transform="translate(-58.208336,-117.24783)"
+               id="g1938">
+              <g
+                 id="g1931">
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   x="108.61102"
+                   y="241.21028"
+                   id="text1921"><tspan
+                     sodipodi:role="line"
+                     id="tspan1919"
+                     x="108.61102"
+                     y="241.21028"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#003380;fill-opacity:1;stroke-width:0.26458332">Thank You For Your Attention!</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:6.20903111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15522577"
+                   x="135.89691"
+                   y="259.31815"
+                   id="text1925"><tspan
+                     sodipodi:role="line"
+                     id="tspan1923"
+                     x="135.89691"
+                     y="259.31815"
+                     style="stroke-width:0.15522577">https://www.github.com/SixTrack/sixtracklib</tspan></text>
+              </g>
+            </g>
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               x="68.161568"
-               y="171.34727"
-               id="text262-9"><tspan
-                 sodipodi:role="line"
-                 id="tspan260-4"
-                 x="68.161568"
-                 y="171.34727"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Arial;-inkscape-font-specification:Arial;fill:#003380;fill-opacity:1;stroke-width:0.26458332">ABP Group Information Meeting - February 2020 :: SixTrackLib :: Schwinzerl :: Slide 10</tspan></text>
-          </g>
-          <rect
-             y="87.08651"
-             x="0"
-             height="210.66183"
-             width="297.47101"
-             id="rect3054"
-             style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.43429565;stroke-miterlimit:4;stroke-dasharray:0.43429563, 0.43429563;stroke-dashoffset:0;stroke-opacity:1" />
-          <g
-             id="g1938"
-             transform="translate(-58.208336,-117.24783)">
-            <g
-               id="g1931">
-              <text
-                 id="text1921"
-                 y="241.21028"
-                 x="108.61102"
-                 style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-                 xml:space="preserve"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#003380;fill-opacity:1;stroke-width:0.26458332"
-                   y="241.21028"
-                   x="108.61102"
-                   id="tspan1919"
-                   sodipodi:role="line">Thank You For Your Attention!</tspan></text>
-              <text
-                 id="text1925"
-                 y="259.31815"
-                 x="135.89691"
-                 style="font-style:normal;font-weight:normal;font-size:6.20903111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15522577"
-                 xml:space="preserve"><tspan
-                   style="stroke-width:0.15522577"
-                   y="259.31815"
-                   x="135.89691"
-                   id="tspan1923"
-                   sodipodi:role="line">https://www.github.com/SixTrack/sixtracklib</tspan></text>
-            </g>
-          </g>
-          <text
-             id="text1074"
-             y="176.3253"
-             x="22.582577"
-             style="font-style:normal;font-weight:normal;font-size:7.66535664px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:0.19163391"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+               style="font-style:normal;font-weight:normal;font-size:7.66535664px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:0.19163391"
+               x="22.582577"
                y="176.3253"
-               x="22.582577"
-               sodipodi:role="line"
-               id="tspan1068"><tspan
-   id="tspan1064"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Arial;-inkscape-font-specification:Arial;fill:#800000;stroke-width:0.19163391">•</tspan> Related Studies, Publications, and Präsentations (Selection):</tspan><tspan
-               id="tspan2517"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="189.0253"
-               x="22.582577"
-               sodipodi:role="line">    <tspan
-   style="fill:#003380;fill-opacity:1;stroke-width:0.19163391"
-   id="tspan1911">‣</tspan> <tspan
-   id="tspan2515"
-   style="font-size:5.64444447px">A. Oeftiger &quot;GPU accelerated space charge simulations using SixTrackLib and PyHEADTAIL&quot; </tspan></tspan><tspan
-               id="tspan2531"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="200.78079"
-               x="22.582577"
-               sodipodi:role="line">         (4th ICFA Mini-Workshop on Space Charge 2019, CERN) </tspan><tspan
-               id="tspan2535"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="212.27882"
-               x="22.582577"
-               sodipodi:role="line">         https://indico.cern.ch/event/828559/contributions/3528454/</tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="224.72137"
-               x="22.582577"
-               sodipodi:role="line"
-               id="tspan1078">    <tspan
-   style="fill:#003380;fill-opacity:1;stroke-width:0.19163391"
-   id="tspan1913">‣</tspan> <tspan
-   id="tspan2539"
-   style="font-size:5.64444447px">H. Bartosik &quot;Studies on tune ripple&quot; </tspan></tspan><tspan
-               id="tspan2541"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="236.47687"
-               x="22.582577"
-               sodipodi:role="line">         (4th ICFA Mini-Workshop on Space Charge 2019, CERN) </tspan><tspan
-               id="tspan2545"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="247.9749"
-               x="22.582577"
-               sodipodi:role="line">         https://indico.cern.ch/event/828559/contributions/3528378/</tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="260.41742"
-               x="22.582577"
-               sodipodi:role="line"
-               id="tspan1080">   <tspan
-   style="fill:#003380;fill-opacity:1;stroke-width:0.19163391"
-   id="tspan1915"> ‣</tspan> <tspan
-   id="tspan2549"
-   style="font-size:5.64444447px">K. Paraschou &quot;Symplectic kicks from an electron cloud pinch&quot; </tspan></tspan><tspan
-               id="tspan2551"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="272.17291"
-               x="22.582577"
-               sodipodi:role="line"><tspan
-                 id="tspan2553"
-                 style="font-size:5.64444447px">         (ABP Group Info Meeting, January 2020, CERN) https://indico.cern.ch/event/880340/</tspan></tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:Hack;-inkscape-font-specification:Hack;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="283.67096"
-               x="22.582577"
-               sodipodi:role="line"
-               id="tspan1070" /><tspan
-               id="tspan1072"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:Hack;-inkscape-font-specification:Hack;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
-               y="295.16898"
-               x="22.582577"
-               sodipodi:role="line" /></text>
-          <text
-             id="text2523"
-             y="224.03542"
-             x="53.507359"
-             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-             xml:space="preserve"><tspan
-               style="stroke-width:0.26458332"
-               y="224.03542"
+               id="text1074"><tspan
+                 id="tspan1068"
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="176.3253"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Arial;-inkscape-font-specification:Arial;fill:#800000;stroke-width:0.19163391"
+   id="tspan1064">•</tspan> Related Studies, Publications, and Presentations (Selection):</tspan><tspan
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="189.0253"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+                 id="tspan2517">    <tspan
+   id="tspan1911"
+   style="fill:#003380;fill-opacity:1;stroke-width:0.19163391">‣</tspan> <tspan
+   style="font-size:5.64444447px"
+   id="tspan2515">A. Oeftiger &quot;GPU accelerated space charge simulations using SixTrackLib and PyHEADTAIL&quot; </tspan></tspan><tspan
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="200.78079"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+                 id="tspan2531">         (4th ICFA Mini-Workshop on Space Charge 2019, CERN) </tspan><tspan
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="212.27882"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+                 id="tspan2535">         https://indico.cern.ch/event/828559/contributions/3528454/</tspan><tspan
+                 id="tspan1078"
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="224.72137"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391">    <tspan
+   id="tspan1913"
+   style="fill:#003380;fill-opacity:1;stroke-width:0.19163391">‣</tspan> <tspan
+   style="font-size:5.64444447px"
+   id="tspan2539">H. Bartosik &quot;Studies on tune ripple&quot; </tspan></tspan><tspan
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="236.47687"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+                 id="tspan2541">         (4th ICFA Mini-Workshop on Space Charge 2019, CERN) </tspan><tspan
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="247.9749"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+                 id="tspan2545">         https://indico.cern.ch/event/828559/contributions/3528378/</tspan><tspan
+                 id="tspan1080"
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="260.41745"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391">   <tspan
+   id="tspan1915"
+   style="fill:#003380;fill-opacity:1;stroke-width:0.19163391"> ‣</tspan> <tspan
+   style="font-size:5.64444447px"
+   id="tspan2549">K. Paraschou &quot;Symplectic kicks from an electron cloud pinch&quot; </tspan></tspan><tspan
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="272.17294"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+                 id="tspan2551"><tspan
+                   style="font-size:5.64444447px"
+                   id="tspan2553">         (ABP Group Info Meeting, January 2020, CERN) https://indico.cern.ch/event/880340/</tspan></tspan><tspan
+                 id="tspan1070"
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="283.67096"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:Hack;-inkscape-font-specification:Hack;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391" /><tspan
+                 sodipodi:role="line"
+                 x="22.582577"
+                 y="295.16901"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:Hack;-inkscape-font-specification:Hack;fill:#0f0f0f;fill-opacity:1;stroke-width:0.19163391"
+                 id="tspan1072" /></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
                x="53.507359"
-               id="tspan2521"
-               sodipodi:role="line"> </tspan></text>
+               y="224.03542"
+               id="text2523"><tspan
+                 sodipodi:role="line"
+                 id="tspan2521"
+                 x="53.507359"
+                 y="224.03542"
+                 style="stroke-width:0.26458332"> </tspan></text>
+          </g>
         </g>
       </g>
     </g>
