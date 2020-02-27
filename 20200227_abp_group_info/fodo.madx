@@ -1,0 +1,12 @@
+! Element definitions:
+! ------------------- horizontal quadrupole ----------------------------
+QUAD_F: MULTIPOLE, KNL={0, 0.165};
+QUAD_D: MULTIPOLE, KNL={0,-0.165};
+
+FODO: SEQUENCE, L=20.0, REFER=entry;
+   QF1: QUAD_F, AT=10.0;
+   QD1: QUAD_D, AT=20.0;
+ENDSEQUENCE;
+
+	
+
