@@ -1,0 +1,129 @@
+div#title_slide
+{
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+}
+
+h1.title_page {
+    font-weight: 600;
+    font-size: 8vmin;
+    line-height: 100%;
+    color:#000080;
+    margin-bottom: 3em;
+    margin-top: 1em;
+    display: block;
+    white-space: wrap;
+    text-align: center;
+}
+
+div.title_page_info {
+    font-size: 4vmin;
+    line-height: 150%;
+    color:#0f0f0f;
+    margin: 1em;
+    margin-top: 1em;
+    heigth: 100%;
+    display: block;
+    white-space: wrap;
+    text-align: center;
+}
+
+div.title_page_info span.main_author {
+    text-decoration: underline;
+}
+
+/* ------------------------------------------------------------------------- */
+
+div.content
+{
+    font-size: 3vmin;
+    color:#0f0f0f;
+    heigth: 100%;
+    display: block;
+    white-space: wrap;
+    text-align: center;
+}
+
+/* ------------------------------------------------------------------------- */
+
+h2.slide
+{
+    vertical-align: top;
+    font-weight: 600;
+    font-size: 6vmin;
+    line-height: 100%;
+    color:#000080;
+    display: block;
+    white-space: wrap;
+    text-align: left;
+    width:100%;
+    display:block;
+    border-bottome: 2px solid #000080;
+}
+
+p.content
+{
+    vertical-align: top;
+    font-size: 2vmin;
+    line-height: 100%;
+    color:#0f0f0f;
+    display: block;
+    white-space: wrap;
+    text-align: left;
+    width:100%;
+}
+
+div.multi_cols
+{
+    vertical-align: top;
+    font-size: 2vmin;
+    color:#0f0f0f;
+    overflow: hidden;
+    width:100%;
+}
+
+ul.level1
+{
+    font-size: 2vmin;
+    list-style-type: none;
+}
+
+ul.level1 li:before
+{
+    content: "\2023";
+    color: #000080;
+    display: inline-block;
+    width: 1em;
+}
+
+ul.level1 li ul.level2
+{
+    font-size: 2vmin;
+    list-style-type: none;
+}
+
+ul.level1 li ul.level2 li:before
+{
+    content: "\25b7";
+    color: #000080;
+    display: inline-block;
+    width: 1em;
+}
+
+ul.level1 li ul.level2 li
+{
+    font-size: 2vmin;
+}
+
+table.default
+{
+    font-size: 3vmin;
+}
+
+span.project_name
+{
+    font-variant: small-caps;
+}
+
+/* div#slide_single_col div.content ul */
