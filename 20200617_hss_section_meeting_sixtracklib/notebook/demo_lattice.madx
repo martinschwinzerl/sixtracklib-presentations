@@ -1,0 +1,35 @@
+/* Demo MAD-X file for studying magnet errors */
+
+qd: multipole, knl := { 0.0, 0.01 };
+demo_lattice: sequence, l=0.2;
+    qd, at=0.2;
+endsequence;
+
+beam, particle=proton, energy=1.0;
+use, sequence=demo_lattice;
+
+// Track without magnet errors to see the effect
+// Track particle #0 which goes straight through the center of the qd
+// Track particle #1 to be off-axis in the y direction
+
+track, onetable;
+    npart=2;
+    start, x=0.0, y=0.0, px=0.0, py=0.0;
+    start, x=-0.01, y=0.0, px=0.0, py=0.0;
+    run;
+endtrack;
+
+// Introduce magnetic errors to lattice
+
+select, flag=error, pattern=qd;
+ealign, dx=0.01;
+
+// Repeat tracking to compare output
+
+track, onetable;
+    npart=2;
+    start, x=0.0, y=0.0, px=0.0, py=0.0;
+    start, x=-0.01, y=0.0, px=0.0, py=0.0;
+    run;
+endtrack;
+
